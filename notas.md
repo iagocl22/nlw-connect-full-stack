@@ -46,7 +46,7 @@ Apresentar os dados;
 
 
 
-´´´js
+```js
 // comentários, variáveis, tipos de dados e funções
 const corBola = "azul" + "escuro" // azulescuro
 const idade = 10 + 2 // 12

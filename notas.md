@@ -59,4 +59,4 @@ const soma = (a, b) => {
 
 const resultado = soma("alo", 32)
 alert(resultado)
-´´´
+```
